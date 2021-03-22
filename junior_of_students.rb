@@ -7,5 +7,9 @@ puts "4."+students[3]
 puts "5."+students[4]
 puts "There are #{students.size} students in this class"
 students.push("Nancy", "Robert", "Paul")
-students= ["Henry", "Bob", "Matthew", "Alex", "Nancy", "Robert", "Paul", "John"]
-students.pop
+puts students
+#students= ["Henry", "Bob", "Matthew", "Alex", "Nancy", "Robert", "Paul", "John"]
+#students.pop("John")
+students[3]="Diane"
+#puts students
+puts students.sort
