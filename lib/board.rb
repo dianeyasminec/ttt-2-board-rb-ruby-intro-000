@@ -1,4 +1,5 @@
 ##Homework 1 - WHat is value returned by restaurant. What is displaying on the screen?
+=begin
 def restaurant
   restaurant_name = "Guy's American Kitchen & Bar"
   cuisine = "american"
@@ -34,3 +35,5 @@ restaurant
 #
 #
 #
+=end
+board=[" "," "," "," "," "," "," "," "," "]
